@@ -8,4 +8,4 @@ Streamlit
 Scikit-learn
 
 DATA-https://drive.google.com/drive/folders/1v15RNUxZowi7dIVwbBzIBGL-fO3ndSMT?usp=sharing
-COLAB-https://colab.research.google.com/drive/1Glgwtb72tBdeoT99zX_f5mj7Ebci_QJV#scrollTo=ReDZ_qLb2BfA
+COLAB-https://colab.research.google.com/github/vaibhavps05/Book-Recommendation-/blob/main/Book_Recommendation.ipynb
